@@ -1,0 +1,19 @@
+add cubeCoordinates DONE
+set neighbours	DONE
+
+Create Editor
+Export To Game Map
+
+load image
+set tileHeight from pixels
+regenerate mesh
+
+set rocks/trees
+
+create player
+move player
+
+create enemies
+pathfinding
+combat
+
